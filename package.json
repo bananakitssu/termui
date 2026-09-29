@@ -1,0 +1,25 @@
+{
+  "name": "termui",
+  "version": "0.1.0-beta",
+  "description": "Add UI elements inside your terminal!",
+  "keywords": [
+    "terminal",
+    "ui",
+    "js"
+  ],
+  "homepage": "https://github.com/bananakitssu/termui#readme",
+  "bugs": {
+    "url": "https://github.com/bananakitssu/termui/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bananakitssu/termui.git"
+  },
+  "license": "MIT",
+  "author": "bananacool467",
+  "type": "commonjs",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "node test.js"
+  }
+}
